@@ -1,5 +1,5 @@
 
-The Python library for controlling the Raspberry Pi Camera Module on the Astro Pis is `picamera-zero`. To get started, check out [this project guide](https://raspberrypifoundation.github.io/picamera-zero/hello_world/){:target="_blank"} for a handy walkthrough of how to use it.
+The best Python library for controlling the Raspberry Pi Camera Module is `picamera-zero`. To get started, check out [this project guide](https://raspberrypifoundation.github.io/picamera-zero/hello_world/){:target="_blank"} for a handy walkthrough of how to install and use it.
 
 
 #### Usage
