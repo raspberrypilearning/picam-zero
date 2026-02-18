@@ -1,5 +1,5 @@
 
-The best Python library for controlling the Raspberry Pi Camera Module is `picamera-zero`. To get started, check out [this project guide](https://raspberrypifoundation.github.io/picamera-zero/hello_world/){:target="_blank"} for a handy walkthrough of how to install and use it.
+The best Python library for controlling the Raspberry Pi Camera Module is `picamzero`. To get started, check out [this project guide](https://raspberrypifoundation.github.io/picamzero/hello_world/){:target="_blank"} for a handy walkthrough of how to install and use it.
 
 
 #### Usage
@@ -18,4 +18,4 @@ for i in range(3*60):
 
 #### Documentation
 
-- [https://raspberrypifoundation.github.io/picamera-zero](https://raspberrypifoundation.github.io/picamera-zero){:target="_blank"}
+- [https://raspberrypifoundation.github.io/picamzero](https://raspberrypifoundation.github.io/picamzero){:target="_blank"}
